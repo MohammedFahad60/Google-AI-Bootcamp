@@ -1,0 +1,6 @@
+{
+  "name": "Bengaluru Marathon 2026",
+  "description": "Official platform for the Bengaluru Marathon. Run the city. Own your story. Live tracking, interactive route maps, runner dashboard, and community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
